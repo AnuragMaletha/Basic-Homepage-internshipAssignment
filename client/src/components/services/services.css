@@ -1,0 +1,36 @@
+
+  
+  .services-section {
+    padding: 4rem 10rem;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+  }
+  
+  h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .services-grid {
+    justify-content: space-around;
+    display: flex;
+    gap: 2rem;
+    height: 250px;
+    
+  }
+  .service{
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    justify-content: space-between;
+
+  }
+  .bold{
+    font-weight: bold;
+    margin: 6px;
+  }
+
+  .logo-1{
+    margin: 5px;
+    height: 100px;
+  }
